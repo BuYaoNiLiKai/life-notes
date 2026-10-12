@@ -78,7 +78,7 @@ python -m http.server 8000 --directory dist
 
 ## 🔗 项目信息
 
-- 本机目录：`E:\\Codex WorkSpace\\life-notes`
+- 本机目录：`E:\Codex WorkSpace\life-notes`
 - GitHub：[BuYaoNiLiKai/life-notes](https://github.com/BuYaoNiLiKai/life-notes)（私有仓库，默认分支 `main`）
 
 <div align="center">
@@ -86,3 +86,4 @@ python -m http.server 8000 --directory dist
 <sub>让有用的知识，成为日常的一部分。 ☀️</sub>
 
 </div>
+
