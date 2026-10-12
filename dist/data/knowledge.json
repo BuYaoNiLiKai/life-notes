@@ -1,0 +1,64 @@
+{
+  "days": [
+    {
+      "date": "2026-10-12",
+      "items": [
+        {
+          "category": "饮食",
+          "title": "剩菜别在室温放太久",
+          "body": "一般建议烹调后 2 小时内冷藏；大锅汤或炖菜分装进浅盒，能帮助更快降温。",
+          "why": "食物在室温下放得越久，细菌越有机会繁殖。把大份食物分小份，也能让冷藏更均匀。",
+          "action": "吃不完就分装，及时放进冰箱。",
+          "source": "FoodSafety.gov",
+          "url": "https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses",
+          "icon": "◒",
+          "tone": "apricot"
+        },
+        {
+          "category": "健康",
+          "title": "洗手要揉到指缝和指甲边",
+          "body": "用肥皂覆盖手心、手背、指缝和指甲周围，揉搓至少 20 秒，再用流动水冲净。",
+          "why": "肥皂和摩擦能把污物与微生物从皮肤上带下来，冲水则把它们洗走。只搓手心容易漏掉边角。",
+          "action": "下次洗手时，别忘了拇指和指尖。",
+          "source": "美国 CDC",
+          "url": "https://www.cdc.gov/handwashing/",
+          "icon": "✳",
+          "tone": "blue"
+        },
+        {
+          "category": "衣物护理",
+          "title": "普通衣物试试冷水洗",
+          "body": "洗衣机相当一部分能耗用来加热洗涤水；普通衣物用冷水通常也能洗净，往往更省电。",
+          "why": "洗涤主要靠水、洗涤剂和机械翻动。遇到油污或衣物标签有特别要求时，再选择更合适的温度。",
+          "action": "日常衣物选冷水档，先看洗涤标签。",
+          "source": "ENERGY STAR",
+          "url": "https://www.energystar.gov/products/clothes_washers",
+          "icon": "≈",
+          "tone": "lime"
+        },
+        {
+          "category": "居家",
+          "title": "通风前先看看室外空气",
+          "body": "室外空气质量和天气合适时，开窗能增加新鲜空气交换；污染、花粉多或天气极端时，减少开窗更合适。",
+          "why": "开窗会让室外空气进入屋内，所以通风是否合适，也取决于室外空气和当时的天气。",
+          "action": "开窗前看一眼空气质量和天气。",
+          "source": "美国 EPA",
+          "url": "https://www.epa.gov/indoor-air-quality-iaq/biological-contaminants-and-indoor-air-quality",
+          "icon": "⌁",
+          "tone": "lavender"
+        },
+        {
+          "category": "居家",
+          "title": "洗澡后让排风扇多转一会儿",
+          "body": "淋浴时打开浴室排风扇，结束后再运行约 15 分钟，有助于排走湿气。",
+          "why": "减少浴室里的水汽，有助于避免长期潮湿带来的霉菌问题。",
+          "action": "洗完澡先别急着关风扇。",
+          "source": "ENERGY STAR",
+          "url": "https://www.energystar.gov/products/recent_program_updates/low-no-cost-tips",
+          "icon": "↗",
+          "tone": "teal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f2f1eb" />
+    <meta name="description" content="每天五条，轻松读懂的实用生活科普。" />
+    <title>日常有知 — 每天五条生活科普</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script defer src="./app.js"></script>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="topbar">
+        <a class="brand" href="#top" aria-label="日常有知首页">
+          <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+          <span>日常有知</span>
+        </a>
+        <nav class="top-nav" aria-label="主导航">
+          <a class="active" href="#today">今日阅读</a>
+          <a href="#about">关于栏目</a>
+        </nav>
+        <div class="edition"><span class="live-dot"></span> 每天 09:00 更新</div>
+      </header>
+
+      <main id="top">
+        <section class="hero" id="today">
+          <div class="hero-copy">
+            <p class="eyebrow"><span class="eyebrow-line"></span> 给日常多一点理解</p>
+            <h1>每天五条，<br /><em>把生活看明白。</em></h1>
+            <p class="hero-note">从厨房到街巷，从身体到数码。<br />短短几分钟，知道一件事为什么如此。</p>
+            <a class="jump-link" href="#knowledge">读今天的内容 <span aria-hidden="true">↓</span></a>
+          </div>
+          <div class="hero-art" aria-label="每天五条生活科普的插画">
+            <div class="art-sun"></div>
+            <div class="art-page page-back"></div>
+            <div class="art-page page-front">
+              <div class="page-lines"><i></i><i></i><i></i></div>
+              <div class="page-stamp">今日<br /><b>05</b></div>
+              <div class="page-caption">NOTES FOR<br />EVERYDAY</div>
+            </div>
+            <div class="art-leaf leaf-one"></div>
+            <div class="art-leaf leaf-two"></div>
+            <span class="art-spark spark-one">✳</span><span class="art-spark spark-two">✳</span>
+          </div>
+          <div class="hero-date"><span class="date-label">今日一期</span><strong id="edition-date">2026.10.12</strong><span class="date-rule"></span><span id="reading-time">约 3 分钟</span></div>
+        </section>
+
+        <section class="knowledge-section" id="knowledge" aria-labelledby="section-title">
+          <div class="section-heading">
+            <div>
+              <p class="section-kicker">THE DAILY FIVE</p>
+              <h2 id="section-title">今天，带走这五件小事。</h2>
+            </div>
+            <p class="section-side-note">选一条马上用得上<br />也可以慢慢读完。</p>
+          </div>
+
+          <div class="filter-row" role="group" aria-label="按主题筛选">
+            <button class="filter-chip selected" type="button" data-filter="全部" aria-pressed="true">全部 <span id="total-count">05</span></button>
+            <button class="filter-chip" type="button" data-filter="饮食">饮食</button>
+            <button class="filter-chip" type="button" data-filter="健康">健康</button>
+            <button class="filter-chip" type="button" data-filter="居家">居家</button>
+            <button class="filter-chip" type="button" data-filter="衣物护理">衣物护理</button>
+          </div>
+
+          <div class="story-grid" id="story-grid" aria-live="polite"></div>
+          <div class="empty-state" id="empty-state" hidden>这个主题今天还没有内容，换个分类看看。</div>
+          <div class="closing-note"><span class="closing-flower">✳</span><span>一点点新知，让熟悉的日子也有发现。</span><span class="closing-rule"></span><button id="share-button" type="button">分享今天 <span aria-hidden="true">↗</span></button></div>
+        </section>
+
+        <section class="about-band" id="about">
+          <div class="about-symbol" aria-hidden="true">知</div>
+          <div><p class="section-kicker">ABOUT THIS COLUMN</p><h2>让知识离生活近一点。</h2></div>
+          <p>这里的每条内容都尽量讲清楚一个原因，再留下一件能用上的小行动。短、准确，也有出处。</p>
+          <span class="about-scribble" aria-hidden="true">日日有知</span>
+        </section>
+      </main>
+
+      <footer class="footer"><span>日常有知 · 每天一点，日日有知</span><span>内容附来源，知识有来处。</span></footer>
+    </div>
+  </body>
+</html>
