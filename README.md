@@ -24,4 +24,6 @@ python -m http.server 8000 --directory dist
 
 项目目录：`E:\codexworkspace\life-notes`
 
-GitHub 仓库待绑定。绑定仓库后，可将每日一期追加到 `dist/data/knowledge.json` 并提交更新。
+仓库：[BuYaoNiLiKai/life-notes](https://github.com/BuYaoNiLiKai/life-notes)（私有，默认分支 `main`）。
+
+每天上午 9:00 的生活科普更新应在生成当日五条内容后，核对来源，将新一期追加到 `dist/data/knowledge.json`，再提交并推送到这个仓库。每条内容保持简短、实用、易懂，并附可核对的来源链接。
