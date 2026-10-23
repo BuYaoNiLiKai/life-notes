@@ -17,37 +17,27 @@
 
 ## 🌤️ 今日更新
 
-#### 📅 10 月 22 日 · 每日知识
+#### 📅 10 月 23 日 · 每日知识
 
-##### 01　🌡️ 食品｜判断肉类熟没熟，别只看颜色
+##### 01　🥩 食品安全｜冻肉别放在台面上慢慢解冻
 
-肉类表面变褐或看起来熟了，并不能可靠说明内部已达到安全温度。食品温度计插入最厚处测量，才更能确认是否熟透；薄片从侧面插到中心测。
+室温下解冻时，食物表面可能先变暖，细菌也更容易繁殖。提前放进冷藏室解冻更稳妥；赶时间可用冷水或微波炉，解冻后要马上烹调。 · 来源：[美国农业部食品安全检验局 FSIS](https://ask.fsis.usda.gov/article/How-do-you-thaw-food-safely)
 
-做肉类、禽肉、海鲜或蛋类时，用食品温度计检查中心温度。 · 来源：[美国农业部食品安全检验局 FSIS](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/kitchen-thermometers)
+##### 02　🦷 口腔护理｜喝完酸饮料，别马上刷牙
 
-##### 02　😴 睡眠｜下午喝咖啡，也可能影响晚上的入睡
+汽水、柠檬水等酸性饮料会暂时软化牙釉质，紧接着刷牙可能增加磨损。先用清水漱口，等约一小时再刷。 · 来源：[美国牙科协会 ADA](https://www.ada.org/about/press-releases/tiktoks-alternative-soda-trend-could-be-tough-on-teeth)
 
-咖啡因的刺激作用可能持续数小时；美国国立卫生研究院资料指出，影响可能延续 **8 小时或更久**。不同人敏感程度不同，晚间睡不着的人尤其值得留意下午和傍晚的咖啡、浓茶或可乐。
+##### 03　🍲 厨房节能｜煮东西时盖上锅盖
 
-如果最近入睡困难，试着把含咖啡因饮料提前到白天。 · 来源：[美国国立心肺血液研究所 NHLBI](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)
+盖上锅盖能让食物更快煮熟，也能少用一些能源。煮水、炖煮时可以盖上；需要收汁或观察时再打开。 · 来源：[美国能源部 DOE](https://www.energy.gov/sites/prod/files/2022-08/energy-saver-guide-2022.pdf)
 
-##### 03　🍳 居家空气｜炒菜时开油烟机，做完再多开一会儿
+##### 04　🚗 儿童乘车安全｜不要把孩子单独留在车里
 
-烹饪会增加室内颗粒物。使用能把空气排到室外的油烟机，并在结束后继续运行 **10–20 分钟**，有助于减少厨房和居室里的烹饪颗粒物。
+即使只离开一会儿，停着的车厢也可能迅速升温；开一点车窗或停在阴凉处也不能消除风险。每次停车后检查后排，锁车前确认孩子已一起下车。 · 来源：[美国国家公路交通安全管理局 NHTSA](https://www.nhtsa.gov/road-safety/child-safety)
 
-炒菜时开油烟机；条件允许时用靠后的炉灶，做完后再延迟关闭。 · 来源：[美国环保署 EPA](https://www.epa.gov/indoor-air-quality-iaq/sources-indoor-particulate-matter-pm)
+##### 05　💾 数码安全｜重要文件别只留在一台设备里
 
-##### 04　🔐 数码安全｜重要账号开启双重验证，密码泄露也多一道关
-
-多重身份验证（MFA）除了密码，还要求再用一种方式确认身份。即使别人拿到了密码，第二步验证仍能增加阻止其登录的机会。
-
-先给常用邮箱、网银和社交账号开启 MFA；如果有更强的验证选项，优先使用。 · 来源：[美国网络安全和基础设施安全局 CISA](https://www.cisa.gov/ncas/tips/st05-012)
-
-##### 05　🪟 居家节能｜夏天白天拉上向阳窗帘，能少让阳光给房间“加热”
-
-太阳直射窗户会给室内带来额外热量。白天遮挡朝南或朝西的窗户，可以减少阳光带来的热增益，降低室内变热的程度。
-
-炎热晴天，白天拉上向阳窗户的窗帘或百叶；傍晚再视室外温度开窗通风。 · 来源：[美国能源部 DOE](https://www.energy.gov/indianenergy/articles/energy-saving-hacks-beat-summer-heat)
+手机或电脑丢失、损坏时，文件可能无法找回。定期备份到外接硬盘或可靠的云服务；外接硬盘完成备份后拔下来，降低恶意软件同时影响原件和备份的风险。 · 来源：[美国网络安全和基础设施安全局 CISA](https://www.cisa.gov/resources-tools/training/how-protect-data-stored-your-devices)
 
 ---
 
