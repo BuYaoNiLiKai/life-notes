@@ -17,27 +17,27 @@
 
 ## 🌤️ 今日更新
 
-#### 📅 10 月 25 日 · 每日知识
+#### 📅 10 月 26 日 · 每日知识
 
-##### 01　🪥 口腔护理｜牙刷刷毛散开了，就该换新
+##### 01　🥶 食品保存｜停电时尽量少开冰箱门
 
-牙刷通常每 **3–4 个月**更换一次；如果刷毛提前变形、散开，就不用等满这个时间。磨损的刷毛清洁效果会变差。 · 来源：[美国牙科协会 ADA](https://www.ada.org/resources/ada-library/oral-health-topics/toothbrushes)
+冰箱在断电、门保持关闭的情况下，大约能保冷 **4 小时**。如果停电可能更久，提前准备冰块或冷藏箱；恢复供电后用温度计查看食物温度，不要只凭气味和外观判断。 · 来源：[美国食品药品监督管理局 FDA](https://www.fda.gov/food/buy-store-serve-safe-food/food-and-water-safety-during-power-outages-and-floods)
 
-##### 02　🌙 睡眠｜周末别把作息一下子往后挪太多
+##### 02　🧯 居家安全｜灭火器只用于刚起的小火
 
-每天大致在相同时间睡觉、起床，有助于维持稳定的睡眠节律。周末睡到很晚，可能让周日晚上更难按时入睡；尽量把起床时间控制在平日后一小时左右。 · 来源：[美国国立心肺血液研究所 NHLBI](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)
+只有在火势很小、范围有限，且身后有清楚的逃生路线时，才考虑使用灭火器。若拿不准或火势扩大，马上撤离并联系当地消防部门。 · 来源：[美国消防管理局 USFA](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/fire-extinguishers/index.html)
 
-##### 03　⚡ 停电应急｜发电机必须放在室外，离门窗至少 6 米
+##### 03　🚙 出行｜雨雪或结冰路面别开定速巡航
 
-燃油发电机会排出一氧化碳，这种气体看不见也闻不到。不要在室内、车库或门窗附近使用；CDC建议放在室外，并与房屋、门和窗保持至少 **20 英尺（约 6 米）**距离。 · 来源：[美国疾病控制与预防中心 CDC](https://www.cdc.gov/carbon-monoxide/media/pdfs/Generators_1.pdf)
+湿滑路面上，轮胎抓地力可能突然变化；定速巡航不适合这种路况，容易让车辆失去控制。遇到雨雪、积冰时，关闭巡航，自己控制车速。 · 来源：[美国国家公路交通安全管理局 NHTSA](https://static.nhtsa.gov/odi/inv/2011/INRD-EA11003-50073P.pdf)
 
-##### 04　🍲 厨房节能｜煮东西时盖上锅盖
+##### 04　📱 数码安全｜扫二维码前先看清将要打开的网址
 
-盖着锅盖，锅里的食物通常能更快煮熟，也会少耗一些能源。煮水或炖煮时可以盖上，等需要收汁、搅拌或观察时再打开。 · 来源：[美国能源部 DOE](https://www.energy.gov/sites/prod/files/2022-08/energy-saver-guide-2022.pdf)
+二维码可能被替换成仿冒网站的链接。扫码后先检查网址有没有拼写错误或可疑域名；如果二维码来自陌生短信、邮件或临时贴纸，不要急着打开。 · 来源：[美国联邦贸易委员会 FTC](https://consumer.ftc.gov/consumer-alerts/2023/12/scammers-hide-harmful-links-qr-codes-steal-your-information)
 
-##### 05　🚘 出行｜低温或雨雪后，桥面可能比普通路面更早结冰
+##### 05　🐕 宠物照护｜葡萄和葡萄干别喂狗
 
-桥梁上下都暴露在冷空气中，降温时往往比地面道路先结冰；薄冰又常像湿路面一样不容易看出来。天气接近冰点时，过桥和高架路段要提前减速、留足车距。 · 来源：[美国国家气象局 NWS](https://www.weather.gov/safety/winter-ice-frost)
+葡萄和葡萄干可能导致狗的肾脏损伤。收好零食和餐桌上的果干；如果狗误食了，尽快联系兽医，不要自行等待症状出现。 · 来源：[美国防止虐待动物协会 ASPCA](https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets)
 
 ---
 
