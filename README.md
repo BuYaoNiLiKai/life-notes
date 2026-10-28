@@ -17,28 +17,27 @@
 
 ## 🌤️ 今日更新
 
-#### 📅 10 月 26 日 · 每日知识
+#### 📅 10 月 28 日 · 每日知识
 
-##### 01　🥶 食品保存｜停电时尽量少开冰箱门
+##### 01　🥬 食品清洁｜蔬果用清水冲，不必用洗洁精
 
-冰箱在断电、门保持关闭的情况下，大约能保冷 **4 小时**。如果停电可能更久，提前准备冰块或冷藏箱；恢复供电后用温度计查看食物温度，不要只凭气味和外观判断。 · 来源：[美国食品药品监督管理局 FDA](https://www.fda.gov/food/buy-store-serve-safe-food/food-and-water-safety-during-power-outages-and-floods)
+准备切水果或蔬菜前，先在流动清水下冲洗；哈密瓜、黄瓜这类表皮较硬的，可以用干净的刷子轻轻刷。肥皂和洗洁精不适合用来洗蔬果。 · 来源：[美国食品药品监督管理局 FDA](https://www.fda.gov/consumers/consumer-updates/7-tips-cleaning-fruits-vegetables)
 
-##### 02　🧯 居家安全｜灭火器只用于刚起的小火
+##### 02　💧 居家环境｜室内湿度尽量维持在 30%–50%
 
-只有在火势很小、范围有限，且身后有清楚的逃生路线时，才考虑使用灭火器。若拿不准或火势扩大，马上撤离并联系当地消防部门。 · 来源：[美国消防管理局 USFA](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/fire-extinguishers/index.html)
+湿度过高有利于霉菌等生物污染物生长。EPA 建议室内湿度低于 60%，理想范围是 30%–50%；可以用湿度计观察，潮湿时开除湿机或加强通风。 · 来源：[美国环境保护署 EPA](https://www.epa.gov/indoor-air-quality-iaq/what-can-i-do-improve-indoor-air-quality-my-home)
 
-##### 03　🚙 出行｜雨雪或结冰路面别开定速巡航
+##### 03　💻 办公姿势｜显示器顶部放在视线高度或略低
 
-湿滑路面上，轮胎抓地力可能突然变化；定速巡航不适合这种路况，容易让车辆失去控制。遇到雨雪、积冰时，关闭巡航，自己控制车速。 · 来源：[美国国家公路交通安全管理局 NHTSA](https://static.nhtsa.gov/odi/inv/2011/INRD-EA11003-50073P.pdf)
+屏幕太高容易让人仰头，太低则常会低头。把屏幕放在正前方，顶部与眼睛齐平或略低，通常更容易保持头颈自然。 · 来源：[美国职业安全与健康管理局 OSHA](https://www.osha.gov/etools/computer-workstations/components/monitors)
 
-##### 04　📱 数码安全｜扫二维码前先看清将要打开的网址
+##### 04　👕 衣物护理｜每次用烘干机前清理绒毛滤网
 
-二维码可能被替换成仿冒网站的链接。扫码后先检查网址有没有拼写错误或可疑域名；如果二维码来自陌生短信、邮件或临时贴纸，不要急着打开。 · 来源：[美国联邦贸易委员会 FTC](https://consumer.ftc.gov/consumer-alerts/2023/12/scammers-hide-harmful-links-qr-codes-steal-your-information)
+滤网上积存的绒毛会影响通风，也增加起火风险。每次烘干前清理滤网，并留意机器后方排气管是否被压扁或堵住。 · 来源：[美国消防管理局 USFA](https://www.usfa.fema.gov/gallery/pictographs/pictograph26.html)
 
-##### 05　🐕 宠物照护｜葡萄和葡萄干别喂狗
+##### 05　🚽 节水检漏｜用食用色素检查马桶暗漏
 
-葡萄和葡萄干可能导致狗的肾脏损伤。收好零食和餐桌上的果干；如果狗误食了，尽快联系兽医，不要自行等待症状出现。 · 来源：[美国防止虐待动物协会 ASPCA](https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets)
-
+在水箱里滴几滴食用色素，等约 10 分钟，不要冲水。如果马桶内的水也变了颜色，说明水箱可能在漏水；检查后记得冲掉色素，避免染色。 · 来源：[美国环境保护署 WaterSense](https://www.epa.gov/watersense/home-maintenance)
 ---
 
 ## 🗂️ 历史记录
