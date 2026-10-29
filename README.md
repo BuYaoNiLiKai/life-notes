@@ -17,28 +17,27 @@
 
 ## 🌤️ 今日更新
 
-#### 📅 10 月 28 日 · 每日知识
+#### 📅 10 月 29 日 · 每日知识
 
-##### 01　🥬 食品清洁｜蔬果用清水冲，不必用洗洁精
+##### 01　🎧 听力保护｜耳机音量别长时间开太大
 
-准备切水果或蔬菜前，先在流动清水下冲洗；哈密瓜、黄瓜这类表皮较硬的，可以用干净的刷子轻轻刷。肥皂和洗洁精不适合用来洗蔬果。 · 来源：[美国食品药品监督管理局 FDA](https://www.fda.gov/consumers/consumer-updates/7-tips-cleaning-fruits-vegetables)
+声音越大，耳朵能安全承受的时间越短。WHO 建议个人音频设备音量不超过最大值的 60%；在嘈杂环境里，降噪耳机能减少为了听清而调高音量的需要。 · 来源：[世界卫生组织 WHO](https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-safe-listening)
 
-##### 02　💧 居家环境｜室内湿度尽量维持在 30%–50%
+##### 02　✈️ 出行｜充电宝要随身带，不能托运
 
-湿度过高有利于霉菌等生物污染物生长。EPA 建议室内湿度低于 60%，理想范围是 30%–50%；可以用湿度计观察，潮湿时开除湿机或加强通风。 · 来源：[美国环境保护署 EPA](https://www.epa.gov/indoor-air-quality-iaq/what-can-i-do-improve-indoor-air-quality-my-home)
+充电宝属于备用锂电池，必须放在随身行李中。若登机口临时要求托运行李，要先把充电宝取出带进客舱；航空公司可能还有更严格的容量规定，出发前查看承运航司要求。 · 来源：[美国联邦航空管理局 FAA](https://www.faa.gov/hazmat/packsafe/more_info/?hazmat=7)
 
-##### 03　💻 办公姿势｜显示器顶部放在视线高度或略低
+##### 03　🍱 食品安全｜微波加热后要搅拌并静置
 
-屏幕太高容易让人仰头，太低则常会低头。把屏幕放在正前方，顶部与眼睛齐平或略低，通常更容易保持头颈自然。 · 来源：[美国职业安全与健康管理局 OSHA](https://www.osha.gov/etools/computer-workstations/components/monitors)
+微波炉加热可能不均匀。覆盖食物、加热中途搅拌或转动，结束后按包装说明静置；用食品温度计确认剩菜最厚处达到 **74°C** 再食用。 · 来源：[美国食品药品监督管理局 FDA](https://www.fda.gov/media/115466/download)
 
-##### 04　👕 衣物护理｜每次用烘干机前清理绒毛滤网
+##### 04　🌬️ 居家节能｜吊扇夏天逆时针，冬天低速顺时针
 
-滤网上积存的绒毛会影响通风，也增加起火风险。每次烘干前清理滤网，并留意机器后方排气管是否被压扁或堵住。 · 来源：[美国消防管理局 USFA](https://www.usfa.fema.gov/gallery/pictographs/pictograph26.html)
+夏季让吊扇逆时针转，可以形成向下气流，带来凉爽的体感；冬季改成低速顺时针，有助于把天花板附近的暖空气带回室内。人离开房间时记得关掉，吊扇主要是让人感觉凉快，并不会降低室温。 · 来源：[美国能源部 Energy Saver](https://www.energy.gov/sites/default/files/2022-08/energy-saver-guide-2022.pdf?lv=true)
 
-##### 05　🚽 节水检漏｜用食用色素检查马桶暗漏
+##### 05　🏠 家电维护｜每月看看空调滤网是否积灰
 
-在水箱里滴几滴食用色素，等约 10 分钟，不要冲水。如果马桶内的水也变了颜色，说明水箱可能在漏水；检查后记得冲掉色素，避免染色。 · 来源：[美国环境保护署 WaterSense](https://www.epa.gov/watersense/home-maintenance)
-
+滤网太脏会挡住气流，让供暖或制冷设备更费力。每月检查一次，脏了就清理或更换；具体型号和更换方式以设备说明书为准。 · 来源：[美国能源部](https://www.energy.gov/articles/5-tips-help-you-save-energy-bills-winter)
 ---
 
 ## 🗂️ 历史记录
