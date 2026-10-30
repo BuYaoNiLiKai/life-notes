@@ -7,7 +7,7 @@
 饮食 · 健康 · 居家 · 出行 · 数码 · 衣物护理
 
 <img src="https://img.shields.io/badge/%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0-5%20%E6%9D%A1-f2a65a?style=flat-square" alt="每日更新 5 条" />
-<img src="https://img.shields.io/badge/%E5%86%85%E5%AE%B9%E5%8E%9F%E5%88%99-%E7%AE%80%E5%8D%95%20%E5%AE%9E%E7%94%A8%20%E6%9C%89%E6%9D%A5%E6%BA%90-52796f?style=flat-square" alt="简单、实用、有来源" />
+<img src="https://img.shields.io/badge/%E5%86%85%E5%AE%B9%E5%8E%9F%E5%88%99-%E7%AE%80%E5%8D%95_%E5%AE%9E%E7%94%A8_%E6%9C%89%E6%9D%A5%E6%BA%90-52796f.svg?style=flat-square" alt="简单、实用、有来源" />
 
 </div>
 
